@@ -1,0 +1,160 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+.psu {
+  align-self: center;
+  width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    text-align: center;
+}
+
+.psu .logo img {
+    align-items: center;
+    width: 100px;
+    height: auto;
+    margin-right: 50px;
+    margin-left: 300px;
+}
+
+.content {
+    text-align: center;
+}
+
+.content p {
+    margin: 0;
+}
+
+.content h2 {
+    margin: 0;
+}
+
+.certificate {
+    letter-spacing: 17px;
+    background-color: white;
+    padding: 40px;
+    text-align: center;
+}
+
+.reg-No {
+  margin-left: 10px;
+  font-weight: bold;
+  padding: 10px;
+  margin: 0;
+}
+.num {
+  color: red;
+}
+.border {
+  border: 1px solid black;
+}
+
+table {
+    width: 100%;
+
+}
+th {
+    border-bottom: 1px solid black;
+    background-color:rgb(222, 188, 240);
+
+}
+.sgi {
+    padding: 10px;
+    background-color:rgb(222, 188, 240);
+    border-bottom: 1px solid black;
+ }
+
+.small {
+    border: 1px solid #ccc;
+    width: 40%;
+    font-size: 11px;
+    margin: 10px;
+    text-align: center;
+    line-height: 1px;
+    border: 1px solid rgb(12, 11, 11);
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+}
+.small td {
+    width: 40%;
+    text-align: left;
+}
+
+.af {
+    background-color:rgb(222, 188, 240);
+    width: 40%;
+    text-align: center;
+    letter-spacing: 12px;
+}
+
+.small th,
+.small td {
+    padding: 7px;
+  }
+
+  
+
+  .sched {
+    padding: 2px;
+    letter-spacing:  2px;
+    border-top: 1px solid black;
+    background-color:rgb(222, 188, 240);
+  }
+
+.sched td {
+  border: 1px solid rgb(102, 80, 80);
+}
+.rule {
+  font-family: 'arial';
+  font-size: 10pt;
+  letter-spacing: 2px;
+  display: inline-block;
+  vertical-align: top;
+  width: 37%;
+}
+  .rule p {
+    font-family: Arial, sans-serif;
+    display: inline-block;
+
+  }
+  .ror{
+    text-align: center;
+  }
+
+  .approved {
+    text-align: center;
+    flex: 1;
+    padding: 15px;
+    margin-left: 60%;
+  }
+  p.apps{
+    text-align: left;
+    margin-left: 0%;
+  }
+.right {
+  font-size: 10pt;
+  text-align: right;
+  margin-bottom: 2px;
+  margin: 0pt;
+  padding: 0%;
+}
+
+.foot {
+  background-color:rgb(222, 188, 240);
+  border-top: 1px solid black;
+}
